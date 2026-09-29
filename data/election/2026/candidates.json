@@ -1,0 +1,2319 @@
+{
+ "schema": "usa_election.candidates/v1",
+ "as_of": "2026-09-29",
+ "note": "General-election nominees compiled from public reporting as of 2026-09-29. Minor-party lists may be incomplete; see election.json sources/unverified.",
+ "races": [
+  {
+   "id": "2026-AL-senate",
+   "office": "senate",
+   "state": "AL",
+   "special": false,
+   "incumbent": {
+    "name": "Tommy Tuberville",
+    "party": "REP",
+    "status": "retiring",
+    "term_limited": false,
+    "note": "Running for governor"
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "AL-S-01",
+     "name": "Barry Moore",
+     "party": "REP",
+     "incumbent": false,
+     "bioguide": "M001212",
+     "note": "U.S. Rep.; won GOP runoff 55.8% over Jared Hudson",
+     "photo": "assets/photos/AL-S-01.jpg"
+    },
+    {
+     "id": "AL-S-02",
+     "name": "Everett Wess",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Attorney; won Dem runoff over Dakarai Larriett"
+    }
+   ]
+  },
+  {
+   "id": "2026-AK-senate",
+   "office": "senate",
+   "state": "AK",
+   "special": false,
+   "incumbent": {
+    "name": "Dan Sullivan",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set (top-four; RCV general)",
+   "candidates": [
+    {
+     "id": "AK-S-01",
+     "name": "Dan S. Sullivan",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "S001198",
+     "photo": "assets/photos/AK-S-01.jpg"
+    },
+    {
+     "id": "AK-S-02",
+     "name": "Mary Peltola",
+     "party": "DEM",
+     "incumbent": false,
+     "bioguide": "P000619",
+     "note": "Former U.S. Rep.; finished first in Aug 18 top-four primary",
+     "photo": "assets/photos/AK-S-02.jpg"
+    },
+    {
+     "id": "AK-S-03",
+     "name": "Dan J. Sullivan",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Former U.S. Forest Service employee; not the incumbent"
+    },
+    {
+     "id": "AK-S-04",
+     "name": "Gerald Heikes",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Perennial candidate"
+    }
+   ]
+  },
+  {
+   "id": "2026-AR-senate",
+   "office": "senate",
+   "state": "AR",
+   "special": false,
+   "incumbent": {
+    "name": "Tom Cotton",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "AR-S-01",
+     "name": "Tom Cotton",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "C001095",
+     "photo": "assets/photos/AR-S-01.jpg"
+    },
+    {
+     "id": "AR-S-02",
+     "name": "Hallie Shoffner",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Farmer"
+    },
+    {
+     "id": "AR-S-03",
+     "name": "Jeff Wadlin",
+     "party": "LIB",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-CO-senate",
+   "office": "senate",
+   "state": "CO",
+   "special": false,
+   "incumbent": {
+    "name": "John Hickenlooper",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "CO-S-01",
+     "name": "John Hickenlooper",
+     "party": "DEM",
+     "incumbent": true,
+     "bioguide": "H000273",
+     "note": "Beat Julie Gonzales in Jun 30 primary, ~57-43",
+     "photo": "assets/photos/CO-S-01.jpg"
+    },
+    {
+     "id": "CO-S-02",
+     "name": "Mark Baisley",
+     "party": "REP",
+     "incumbent": false,
+     "note": "State senator"
+    }
+   ]
+  },
+  {
+   "id": "2026-DE-senate",
+   "office": "senate",
+   "state": "DE",
+   "special": false,
+   "incumbent": {
+    "name": "Chris Coons",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "DE-S-01",
+     "name": "Chris Coons",
+     "party": "DEM",
+     "incumbent": true,
+     "bioguide": "C001088",
+     "note": "Won Sep 15 primary",
+     "photo": "assets/photos/DE-S-01.jpg"
+    },
+    {
+     "id": "DE-S-02",
+     "name": "Michael (Mike) Katz",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Former state senator/physician; won Sep 15 GOP primary over John Shulli"
+    }
+   ]
+  },
+  {
+   "id": "2026-GA-senate",
+   "office": "senate",
+   "state": "GA",
+   "special": false,
+   "incumbent": {
+    "name": "Jon Ossoff",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "GA-S-01",
+     "name": "Jon Ossoff",
+     "party": "DEM",
+     "incumbent": true,
+     "bioguide": "O000174",
+     "photo": "assets/photos/GA-S-01.jpg"
+    },
+    {
+     "id": "GA-S-02",
+     "name": "Mike Collins",
+     "party": "REP",
+     "incumbent": false,
+     "bioguide": "C001129",
+     "note": "U.S. Rep.; won Jun 16 GOP runoff over Derek Dooley",
+     "photo": "assets/photos/GA-S-02.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-ID-senate",
+   "office": "senate",
+   "state": "ID",
+   "special": false,
+   "incumbent": {
+    "name": "Jim Risch",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set (no Democratic nominee)",
+   "candidates": [
+    {
+     "id": "ID-S-01",
+     "name": "Jim Risch",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "R000584",
+     "photo": "assets/photos/ID-S-01.jpg"
+    },
+    {
+     "id": "ID-S-02",
+     "name": "Todd Achilles",
+     "party": "IND",
+     "incumbent": false,
+     "note": "Former state rep.; Forward Party-endorsed; backed by Democrats after Dem nominee David Roth withdrew (late July)"
+    },
+    {
+     "id": "ID-S-03",
+     "name": "Natalie Fleming",
+     "party": "IND",
+     "incumbent": false
+    },
+    {
+     "id": "ID-S-04",
+     "name": "Matt Loesby",
+     "party": "LIB",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-IL-senate",
+   "office": "senate",
+   "state": "IL",
+   "special": false,
+   "incumbent": {
+    "name": "Dick Durbin",
+    "party": "DEM",
+    "status": "retiring",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "IL-S-01",
+     "name": "Juliana Stratton",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Lt. Governor"
+    },
+    {
+     "id": "IL-S-02",
+     "name": "Don Tracy",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Former Illinois GOP chair"
+    },
+    {
+     "id": "IL-S-03",
+     "name": "Whitfield Harrington",
+     "party": "IND",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-IA-senate",
+   "office": "senate",
+   "state": "IA",
+   "special": false,
+   "incumbent": {
+    "name": "Joni Ernst",
+    "party": "REP",
+    "status": "retiring",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "IA-S-01",
+     "name": "Ashley Hinson",
+     "party": "REP",
+     "incumbent": false,
+     "bioguide": "H001091",
+     "note": "U.S. Rep.",
+     "photo": "assets/photos/IA-S-01.jpg"
+    },
+    {
+     "id": "IA-S-02",
+     "name": "Josh Turek",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "State rep."
+    },
+    {
+     "id": "IA-S-03",
+     "name": "Thomas Laehn",
+     "party": "LIB",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-KS-senate",
+   "office": "senate",
+   "state": "KS",
+   "special": false,
+   "incumbent": {
+    "name": "Roger Marshall",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "KS-S-01",
+     "name": "Roger Marshall",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "M001198",
+     "photo": "assets/photos/KS-S-01.jpg"
+    },
+    {
+     "id": "KS-S-02",
+     "name": "Adam Hamilton",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Pastor; won Aug 4 primary with 34.9%"
+    }
+   ]
+  },
+  {
+   "id": "2026-KY-senate",
+   "office": "senate",
+   "state": "KY",
+   "special": false,
+   "incumbent": {
+    "name": "Mitch McConnell",
+    "party": "REP",
+    "status": "retiring",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "KY-S-01",
+     "name": "Andy Barr",
+     "party": "REP",
+     "incumbent": false,
+     "bioguide": "B001282",
+     "note": "U.S. Rep.; beat Daniel Cameron",
+     "photo": "assets/photos/KY-S-01.jpg"
+    },
+    {
+     "id": "KY-S-02",
+     "name": "Charles Booker",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Former state rep.; beat Amy McGrath"
+    }
+   ]
+  },
+  {
+   "id": "2026-LA-senate",
+   "office": "senate",
+   "state": "LA",
+   "special": false,
+   "incumbent": {
+    "name": "Bill Cassidy",
+    "party": "REP",
+    "status": "retiring",
+    "term_limited": false,
+    "note": "Sought re-election but lost May 16 closed GOP primary (3rd place)"
+   },
+   "status_note": "nominees set (new closed party primary system; Cassidy eliminated May 16)",
+   "candidates": [
+    {
+     "id": "LA-S-01",
+     "name": "Julia Letlow",
+     "party": "REP",
+     "incumbent": false,
+     "bioguide": "L000595",
+     "note": "U.S. Rep.; won Jun 27 GOP runoff over John Fleming (56.9%)",
+     "photo": "assets/photos/LA-S-01.jpg"
+    },
+    {
+     "id": "LA-S-02",
+     "name": "Jamie Davis",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Farmer"
+    }
+   ]
+  },
+  {
+   "id": "2026-ME-senate",
+   "office": "senate",
+   "state": "ME",
+   "special": false,
+   "incumbent": {
+    "name": "Susan Collins",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set (RCV general)",
+   "candidates": [
+    {
+     "id": "ME-S-01",
+     "name": "Susan Collins",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "C001035",
+     "photo": "assets/photos/ME-S-01.jpg"
+    },
+    {
+     "id": "ME-S-02",
+     "name": "Troy Jackson",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Former state Senate president; chosen by party convention Jul 25 after primary winner Graham Platner withdrew Jul 10"
+    }
+   ]
+  },
+  {
+   "id": "2026-MA-senate",
+   "office": "senate",
+   "state": "MA",
+   "special": false,
+   "incumbent": {
+    "name": "Ed Markey",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "MA-S-01",
+     "name": "Ed Markey",
+     "party": "DEM",
+     "incumbent": true,
+     "bioguide": "M000133",
+     "note": "Beat Rep. Seth Moulton Sep 1 (~65%)",
+     "photo": "assets/photos/MA-S-01.jpg"
+    },
+    {
+     "id": "MA-S-02",
+     "name": "John Deaton",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Attorney; 2024 GOP nominee"
+    }
+   ]
+  },
+  {
+   "id": "2026-MI-senate",
+   "office": "senate",
+   "state": "MI",
+   "special": false,
+   "incumbent": {
+    "name": "Gary Peters",
+    "party": "DEM",
+    "status": "retiring",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "MI-S-01",
+     "name": "Abdul El-Sayed",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Beat Rep. Haley Stevens Aug 4, 48.5-47.5"
+    },
+    {
+     "id": "MI-S-02",
+     "name": "Mike Rogers",
+     "party": "REP",
+     "incumbent": false,
+     "bioguide": "R000572",
+     "note": "Former U.S. Rep.",
+     "photo": "assets/photos/MI-S-02.jpg"
+    },
+    {
+     "id": "MI-S-03",
+     "name": "Lydia Christensen",
+     "party": "LIB",
+     "incumbent": false
+    },
+    {
+     "id": "MI-S-04",
+     "name": "Timothy Long",
+     "party": "OTH",
+     "incumbent": false,
+     "party_label": "U.S. Taxpayers"
+    },
+    {
+     "id": "MI-S-05",
+     "name": "Douglas P. Marsh",
+     "party": "GRN",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-MN-senate",
+   "office": "senate",
+   "state": "MN",
+   "special": false,
+   "incumbent": {
+    "name": "Tina Smith",
+    "party": "DEM",
+    "status": "retiring",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "MN-S-01",
+     "name": "Peggy Flanagan",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Lt. Governor; beat Rep. Angie Craig Aug 11"
+    },
+    {
+     "id": "MN-S-02",
+     "name": "Michele Tafoya",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Former sportscaster"
+    }
+   ]
+  },
+  {
+   "id": "2026-MS-senate",
+   "office": "senate",
+   "state": "MS",
+   "special": false,
+   "incumbent": {
+    "name": "Cindy Hyde-Smith",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "MS-S-01",
+     "name": "Cindy Hyde-Smith",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "H001079",
+     "photo": "assets/photos/MS-S-01.jpg"
+    },
+    {
+     "id": "MS-S-02",
+     "name": "Scott Colom",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "District attorney"
+    },
+    {
+     "id": "MS-S-03",
+     "name": "Ty Pinkins",
+     "party": "IND",
+     "incumbent": false,
+     "note": "2024 Democratic Senate nominee, now independent"
+    }
+   ]
+  },
+  {
+   "id": "2026-MT-senate",
+   "office": "senate",
+   "state": "MT",
+   "special": false,
+   "incumbent": {
+    "name": "Steve Daines",
+    "party": "REP",
+    "status": "retiring",
+    "term_limited": false,
+    "note": "Withdrew at Mar 4 filing deadline"
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "MT-S-01",
+     "name": "Kurt Alme",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Former U.S. Attorney"
+    },
+    {
+     "id": "MT-S-02",
+     "name": "Alani Bankhead",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Air Force officer"
+    },
+    {
+     "id": "MT-S-03",
+     "name": "Seth Bodnar",
+     "party": "IND",
+     "incumbent": false,
+     "note": "Former University of Montana president"
+    },
+    {
+     "id": "MT-S-04",
+     "name": "Kyle Austin",
+     "party": "LIB",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-NE-senate",
+   "office": "senate",
+   "state": "NE",
+   "special": false,
+   "incumbent": {
+    "name": "Pete Ricketts",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set (no Democratic nominee on ballot)",
+   "candidates": [
+    {
+     "id": "NE-S-01",
+     "name": "Pete Ricketts",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "R000618",
+     "photo": "assets/photos/NE-S-01.jpg"
+    },
+    {
+     "id": "NE-S-02",
+     "name": "Dan Osborn",
+     "party": "IND",
+     "incumbent": false,
+     "note": "Nonpartisan; Dem nominee Cindy Burbank declined nomination Jul 17 and is off the ballot"
+    },
+    {
+     "id": "NE-S-03",
+     "name": "Chuck Conboy",
+     "party": "OTH",
+     "incumbent": false,
+     "party_label": "America First Party"
+    },
+    {
+     "id": "NE-S-04",
+     "name": "Robin Richards",
+     "party": "OTH",
+     "incumbent": false,
+     "party_label": "Nebraska Working People party"
+    },
+    {
+     "id": "NE-S-05",
+     "name": "Mike Marvin",
+     "party": "OTH",
+     "incumbent": false,
+     "party_label": "Legal Marijuana NOW",
+     "note": "Suspended campaign mid-August but remains on ballot"
+    }
+   ]
+  },
+  {
+   "id": "2026-NH-senate",
+   "office": "senate",
+   "state": "NH",
+   "special": false,
+   "incumbent": {
+    "name": "Jeanne Shaheen",
+    "party": "DEM",
+    "status": "retiring",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "NH-S-01",
+     "name": "Chris Pappas",
+     "party": "DEM",
+     "incumbent": false,
+     "bioguide": "P000614",
+     "note": "U.S. Rep.",
+     "photo": "assets/photos/NH-S-01.jpg"
+    },
+    {
+     "id": "NH-S-02",
+     "name": "John E. Sununu",
+     "party": "REP",
+     "incumbent": false,
+     "bioguide": "S001078",
+     "note": "Former U.S. Senator/Rep.; beat Scott Brown Sep 8",
+     "photo": "assets/photos/NH-S-02.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-NJ-senate",
+   "office": "senate",
+   "state": "NJ",
+   "special": false,
+   "incumbent": {
+    "name": "Cory Booker",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "NJ-S-01",
+     "name": "Cory Booker",
+     "party": "DEM",
+     "incumbent": true,
+     "bioguide": "B001288",
+     "photo": "assets/photos/NJ-S-01.jpg"
+    },
+    {
+     "id": "NJ-S-02",
+     "name": "Justin Murphy",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Won Jun 2 GOP primary (33.3%)"
+    }
+   ]
+  },
+  {
+   "id": "2026-NM-senate",
+   "office": "senate",
+   "state": "NM",
+   "special": false,
+   "incumbent": {
+    "name": "Ben Ray Luján",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "NM-S-01",
+     "name": "Ben Ray Luján",
+     "party": "DEM",
+     "incumbent": true,
+     "bioguide": "L000570",
+     "photo": "assets/photos/NM-S-01.jpg"
+    },
+    {
+     "id": "NM-S-02",
+     "name": "Larry Marker",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Nominated via write-in in GOP primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-NC-senate",
+   "office": "senate",
+   "state": "NC",
+   "special": false,
+   "incumbent": {
+    "name": "Thom Tillis",
+    "party": "REP",
+    "status": "retiring",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "NC-S-01",
+     "name": "Roy Cooper",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Former governor"
+    },
+    {
+     "id": "NC-S-02",
+     "name": "Michael Whatley",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Former RNC chair"
+    },
+    {
+     "id": "NC-S-03",
+     "name": "Brian McGinnis",
+     "party": "GRN",
+     "incumbent": false
+    },
+    {
+     "id": "NC-S-04",
+     "name": "Shannon Bray",
+     "party": "LIB",
+     "incumbent": false
+    },
+    {
+     "id": "NC-S-05",
+     "name": "Shaunesi Deberry",
+     "party": "IND",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-OK-senate",
+   "office": "senate",
+   "state": "OK",
+   "special": false,
+   "incumbent": {
+    "name": "Alan Armstrong",
+    "party": "REP",
+    "status": "retiring",
+    "term_limited": false,
+    "note": "Appointed Mar 24 2026 after Markwayne Mullin (M001190) resigned to become DHS Secretary; barred by state law from running"
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "OK-S-01",
+     "name": "Kevin Hern",
+     "party": "REP",
+     "incumbent": false,
+     "bioguide": "H001082",
+     "note": "U.S. Rep.; won Jun 16 primary 69.8%",
+     "photo": "assets/photos/OK-S-01.jpg"
+    },
+    {
+     "id": "OK-S-02",
+     "name": "N'Kiyla Jasmine Thomas",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Nurse; won Aug 25 Dem runoff over Jim Priest"
+    }
+   ]
+  },
+  {
+   "id": "2026-OR-senate",
+   "office": "senate",
+   "state": "OR",
+   "special": false,
+   "incumbent": {
+    "name": "Jeff Merkley",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "OR-S-01",
+     "name": "Jeff Merkley",
+     "party": "DEM",
+     "incumbent": true,
+     "bioguide": "M001176",
+     "photo": "assets/photos/OR-S-01.jpg"
+    },
+    {
+     "id": "OR-S-02",
+     "name": "David Brock Smith",
+     "party": "REP",
+     "incumbent": false,
+     "note": "State senator"
+    }
+   ]
+  },
+  {
+   "id": "2026-RI-senate",
+   "office": "senate",
+   "state": "RI",
+   "special": false,
+   "incumbent": {
+    "name": "Jack Reed",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "RI-S-01",
+     "name": "Jack Reed",
+     "party": "DEM",
+     "incumbent": true,
+     "bioguide": "R000122",
+     "photo": "assets/photos/RI-S-01.jpg"
+    },
+    {
+     "id": "RI-S-02",
+     "name": "Raymond McKay",
+     "party": "REP",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-SC-senate",
+   "office": "senate",
+   "state": "SC",
+   "special": false,
+   "incumbent": {
+    "name": "Darline Graham",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false,
+    "note": "Appointee (sister of late Sen. Lindsey Graham)"
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "SC-S-01",
+     "name": "Darline Graham",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "G000608",
+     "note": "Appointed Jul 14 2026 after Lindsey Graham (G000359) died Jul 11; won Aug 25 special GOP runoff over Rep. Ralph Norman"
+    },
+    {
+     "id": "SC-S-02",
+     "name": "Annie Andrews",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Pediatrician"
+    }
+   ]
+  },
+  {
+   "id": "2026-SD-senate",
+   "office": "senate",
+   "state": "SD",
+   "special": false,
+   "incumbent": {
+    "name": "Mike Rounds",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set (no Democratic nominee)",
+   "candidates": [
+    {
+     "id": "SD-S-01",
+     "name": "Mike Rounds",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "R000605",
+     "photo": "assets/photos/SD-S-01.jpg"
+    },
+    {
+     "id": "SD-S-02",
+     "name": "Brian Bengs",
+     "party": "IND",
+     "incumbent": false,
+     "note": "Dem nominee Julian Beaudion withdrew Aug 4"
+    }
+   ]
+  },
+  {
+   "id": "2026-TN-senate",
+   "office": "senate",
+   "state": "TN",
+   "special": false,
+   "incumbent": {
+    "name": "Bill Hagerty",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "TN-S-01",
+     "name": "Bill Hagerty",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "H000601",
+     "photo": "assets/photos/TN-S-01.jpg"
+    },
+    {
+     "id": "TN-S-02",
+     "name": "Marquita Bradshaw",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "2020 nominee"
+    }
+   ]
+  },
+  {
+   "id": "2026-TX-senate",
+   "office": "senate",
+   "state": "TX",
+   "special": false,
+   "incumbent": {
+    "name": "John Cornyn",
+    "party": "REP",
+    "status": "retiring",
+    "term_limited": false,
+    "note": "Sought re-election but lost May 26 GOP runoff"
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "TX-S-01",
+     "name": "Ken Paxton",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Attorney General; beat Cornyn in May 26 runoff (63.8%)"
+    },
+    {
+     "id": "TX-S-02",
+     "name": "James Talarico",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "State rep.; beat Rep. Jasmine Crockett"
+    },
+    {
+     "id": "TX-S-03",
+     "name": "Ted Brown",
+     "party": "LIB",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-VA-senate",
+   "office": "senate",
+   "state": "VA",
+   "special": false,
+   "incumbent": {
+    "name": "Mark Warner",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "VA-S-01",
+     "name": "Mark Warner",
+     "party": "DEM",
+     "incumbent": true,
+     "bioguide": "W000805",
+     "photo": "assets/photos/VA-S-01.jpg"
+    },
+    {
+     "id": "VA-S-02",
+     "name": "Bert Mizusawa",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Retired Army major general"
+    }
+   ]
+  },
+  {
+   "id": "2026-WV-senate",
+   "office": "senate",
+   "state": "WV",
+   "special": false,
+   "incumbent": {
+    "name": "Shelley Moore Capito",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "WV-S-01",
+     "name": "Shelley Moore Capito",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "C001047",
+     "photo": "assets/photos/WV-S-01.jpg"
+    },
+    {
+     "id": "WV-S-02",
+     "name": "Rachel Fetty Anderson",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Former Morgantown councilwoman/attorney"
+    }
+   ]
+  },
+  {
+   "id": "2026-WY-senate",
+   "office": "senate",
+   "state": "WY",
+   "special": false,
+   "incumbent": {
+    "name": "Cynthia Lummis",
+    "party": "REP",
+    "status": "retiring",
+    "term_limited": false
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "WY-S-01",
+     "name": "Harriet Hageman",
+     "party": "REP",
+     "incumbent": false,
+     "bioguide": "H001096",
+     "note": "U.S. Rep.",
+     "photo": "assets/photos/WY-S-01.jpg"
+    },
+    {
+     "id": "WY-S-02",
+     "name": "James W. Byrd",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Former state rep."
+    }
+   ]
+  },
+  {
+   "id": "2026-OH-senate",
+   "office": "senate",
+   "state": "OH",
+   "special": true,
+   "incumbent": {
+    "name": "Jon Husted",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false,
+    "note": "Appointed Jan 2025 to JD Vance's seat; term ends Jan 3 2029"
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "OH-S-01",
+     "name": "Jon Husted",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "H001104"
+    },
+    {
+     "id": "OH-S-02",
+     "name": "Sherrod Brown",
+     "party": "DEM",
+     "incumbent": false,
+     "bioguide": "B000944",
+     "note": "Former U.S. Senator",
+     "photo": "assets/photos/OH-S-02.jpg"
+    },
+    {
+     "id": "OH-S-03",
+     "name": "Bill Redpath",
+     "party": "LIB",
+     "incumbent": false
+    },
+    {
+     "id": "OH-S-04",
+     "name": "Gregory Levy",
+     "party": "IND",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-FL-senate",
+   "office": "senate",
+   "state": "FL",
+   "special": true,
+   "incumbent": {
+    "name": "Ashley Moody",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false,
+    "note": "Appointed Jan 2025 to Marco Rubio's seat; term ends Jan 3 2029"
+   },
+   "status_note": "nominees set",
+   "candidates": [
+    {
+     "id": "FL-S-01",
+     "name": "Ashley Moody",
+     "party": "REP",
+     "incumbent": true,
+     "bioguide": "M001244",
+     "photo": "assets/photos/FL-S-01.jpg"
+    },
+    {
+     "id": "FL-S-02",
+     "name": "Angie Nixon",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "State rep.; beat Alex Vindman Aug 18"
+    }
+   ]
+  },
+  {
+   "id": "2026-AL-governor",
+   "office": "governor",
+   "state": "AL",
+   "special": false,
+   "incumbent": {
+    "name": "Kay Ivey",
+    "party": "REP",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "AL-G-01",
+     "name": "Tommy Tuberville",
+     "party": "REP",
+     "incumbent": false,
+     "note": "US Senator",
+     "photo": "assets/photos/AL-G-01.jpg",
+     "bioguide": "T000278"
+    },
+    {
+     "id": "AL-G-02",
+     "name": "Doug Jones",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Former US Senator",
+     "photo": "assets/photos/AL-G-02.jpg",
+     "bioguide": "J000300"
+    }
+   ]
+  },
+  {
+   "id": "2026-AK-governor",
+   "office": "governor",
+   "state": "AK",
+   "special": false,
+   "incumbent": {
+    "name": "Mike Dunleavy",
+    "party": "REP",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open; top-4 ranked-choice general",
+   "candidates": [
+    {
+     "id": "AK-G-01",
+     "name": "Jonathan Kreiss-Tomkins",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "1st in Aug 18 top-4 primary; Tom Begich (D, 2nd) withdrew"
+    },
+    {
+     "id": "AK-G-02",
+     "name": "Bernadette Wilson",
+     "party": "REP",
+     "incumbent": false
+    },
+    {
+     "id": "AK-G-03",
+     "name": "Dave Bronson",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Former Anchorage mayor"
+    },
+    {
+     "id": "AK-G-04",
+     "name": "Treg Taylor",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Former AG; disqualified Aug 31 then reinstated Sep 4-5 by Lt. Gov. Dahlstrom"
+    }
+   ]
+  },
+  {
+   "id": "2026-AZ-governor",
+   "office": "governor",
+   "state": "AZ",
+   "special": false,
+   "incumbent": {
+    "name": "Katie Hobbs",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "AZ-G-01",
+     "name": "Katie Hobbs",
+     "party": "DEM",
+     "incumbent": true
+    },
+    {
+     "id": "AZ-G-02",
+     "name": "Andy Biggs",
+     "party": "REP",
+     "incumbent": false,
+     "note": "US Rep; won Jul 21 primary",
+     "photo": "assets/photos/AZ-G-02.jpg",
+     "bioguide": "B001302"
+    }
+   ]
+  },
+  {
+   "id": "2026-AR-governor",
+   "office": "governor",
+   "state": "AR",
+   "special": false,
+   "incumbent": {
+    "name": "Sarah Huckabee Sanders",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "AR-G-01",
+     "name": "Sarah Huckabee Sanders",
+     "party": "REP",
+     "incumbent": true
+    },
+    {
+     "id": "AR-G-02",
+     "name": "Fredrick Love",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "State senator"
+    },
+    {
+     "id": "AR-G-03",
+     "name": "Colt Shelby",
+     "party": "LIB",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-CA-governor",
+   "office": "governor",
+   "state": "CA",
+   "special": false,
+   "incumbent": {
+    "name": "Gavin Newsom",
+    "party": "DEM",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open; top-two general",
+   "candidates": [
+    {
+     "id": "CA-G-01",
+     "name": "Xavier Becerra",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Former HHS Secretary",
+     "photo": "assets/photos/CA-G-01.jpg",
+     "bioguide": "B000287"
+    },
+    {
+     "id": "CA-G-02",
+     "name": "Steve Hilton",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Commentator"
+    }
+   ]
+  },
+  {
+   "id": "2026-CO-governor",
+   "office": "governor",
+   "state": "CO",
+   "special": false,
+   "incumbent": {
+    "name": "Jared Polis",
+    "party": "DEM",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "CO-G-01",
+     "name": "Phil Weiser",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Attorney General; beat Sen. Bennet in Jun 30 primary"
+    },
+    {
+     "id": "CO-G-02",
+     "name": "Victor Marx",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Beat Barb Kirkmeyer by ~0.5%"
+    }
+   ]
+  },
+  {
+   "id": "2026-CT-governor",
+   "office": "governor",
+   "state": "CT",
+   "special": false,
+   "incumbent": {
+    "name": "Ned Lamont",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "CT-G-01",
+     "name": "Ned Lamont",
+     "party": "DEM",
+     "incumbent": true,
+     "note": "Also on Working Families line (unverified)"
+    },
+    {
+     "id": "CT-G-02",
+     "name": "Ryan Fazio",
+     "party": "REP",
+     "incumbent": false,
+     "note": "State senator"
+    }
+   ]
+  },
+  {
+   "id": "2026-FL-governor",
+   "office": "governor",
+   "state": "FL",
+   "special": false,
+   "incumbent": {
+    "name": "Ron DeSantis",
+    "party": "REP",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "FL-G-01",
+     "name": "Byron Donalds",
+     "party": "REP",
+     "incumbent": false,
+     "note": "US Rep",
+     "photo": "assets/photos/FL-G-01.jpg",
+     "bioguide": "D000032"
+    },
+    {
+     "id": "FL-G-02",
+     "name": "David Jolly",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Former US Rep (ex-Republican)",
+     "photo": "assets/photos/FL-G-02.jpg",
+     "bioguide": "J000296"
+    }
+   ]
+  },
+  {
+   "id": "2026-GA-governor",
+   "office": "governor",
+   "state": "GA",
+   "special": false,
+   "incumbent": {
+    "name": "Brian Kemp",
+    "party": "REP",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "GA-G-01",
+     "name": "Rick Jackson",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Businessman; beat Burt Jones in Jun 16 runoff"
+    },
+    {
+     "id": "GA-G-02",
+     "name": "Keisha Lance Bottoms",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Former Atlanta mayor"
+    }
+   ]
+  },
+  {
+   "id": "2026-HI-governor",
+   "office": "governor",
+   "state": "HI",
+   "special": false,
+   "incumbent": {
+    "name": "Josh Green",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "HI-G-01",
+     "name": "Josh Green",
+     "party": "DEM",
+     "incumbent": true
+    },
+    {
+     "id": "HI-G-02",
+     "name": "Gary Cordery",
+     "party": "REP",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-ID-governor",
+   "office": "governor",
+   "state": "ID",
+   "special": false,
+   "incumbent": {
+    "name": "Brad Little",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "ID-G-01",
+     "name": "Brad Little",
+     "party": "REP",
+     "incumbent": true
+    },
+    {
+     "id": "ID-G-02",
+     "name": "Terri Pickens",
+     "party": "DEM",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-IL-governor",
+   "office": "governor",
+   "state": "IL",
+   "special": false,
+   "incumbent": {
+    "name": "JB Pritzker",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "IL-G-01",
+     "name": "JB Pritzker",
+     "party": "DEM",
+     "incumbent": true
+    },
+    {
+     "id": "IL-G-02",
+     "name": "Darren Bailey",
+     "party": "REP",
+     "incumbent": false,
+     "note": "2022 rematch"
+    }
+   ]
+  },
+  {
+   "id": "2026-IA-governor",
+   "office": "governor",
+   "state": "IA",
+   "special": false,
+   "incumbent": {
+    "name": "Kim Reynolds",
+    "party": "REP",
+    "status": "retiring",
+    "term_limited": false
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "IA-G-01",
+     "name": "Rob Sand",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "State Auditor"
+    },
+    {
+     "id": "IA-G-02",
+     "name": "Zach Lahn",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Beat Rep. Randy Feenstra in Jun 2 primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-KS-governor",
+   "office": "governor",
+   "state": "KS",
+   "special": false,
+   "incumbent": {
+    "name": "Laura Kelly",
+    "party": "DEM",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "KS-G-01",
+     "name": "Cindy Holscher",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "State senator"
+    },
+    {
+     "id": "KS-G-02",
+     "name": "Ty Masterson",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Senate President"
+    }
+   ]
+  },
+  {
+   "id": "2026-ME-governor",
+   "office": "governor",
+   "state": "ME",
+   "special": false,
+   "incumbent": {
+    "name": "Janet Mills",
+    "party": "DEM",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open; ranked-choice general",
+   "candidates": [
+    {
+     "id": "ME-G-01",
+     "name": "Hannah Pingree",
+     "party": "DEM",
+     "incumbent": false
+    },
+    {
+     "id": "ME-G-02",
+     "name": "Bobby Charles",
+     "party": "REP",
+     "incumbent": false
+    },
+    {
+     "id": "ME-G-03",
+     "name": "Rick Bennett",
+     "party": "IND",
+     "incumbent": false,
+     "note": "State senator"
+    }
+   ]
+  },
+  {
+   "id": "2026-MD-governor",
+   "office": "governor",
+   "state": "MD",
+   "special": false,
+   "incumbent": {
+    "name": "Wes Moore",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "MD-G-01",
+     "name": "Wes Moore",
+     "party": "DEM",
+     "incumbent": true
+    },
+    {
+     "id": "MD-G-02",
+     "name": "Dan Cox",
+     "party": "REP",
+     "incumbent": false,
+     "note": "2022 rematch"
+    }
+   ]
+  },
+  {
+   "id": "2026-MA-governor",
+   "office": "governor",
+   "state": "MA",
+   "special": false,
+   "incumbent": {
+    "name": "Maura Healey",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "MA-G-01",
+     "name": "Maura Healey",
+     "party": "DEM",
+     "incumbent": true
+    },
+    {
+     "id": "MA-G-02",
+     "name": "Mike Minogue",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Won Sep 1 primary"
+    }
+   ]
+  },
+  {
+   "id": "2026-MI-governor",
+   "office": "governor",
+   "state": "MI",
+   "special": false,
+   "incumbent": {
+    "name": "Gretchen Whitmer",
+    "party": "DEM",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "MI-G-01",
+     "name": "Jocelyn Benson",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Secretary of State"
+    },
+    {
+     "id": "MI-G-02",
+     "name": "John James",
+     "party": "REP",
+     "incumbent": false,
+     "note": "US Rep",
+     "photo": "assets/photos/MI-G-02.jpg",
+     "bioguide": "J000307"
+    }
+   ]
+  },
+  {
+   "id": "2026-MN-governor",
+   "office": "governor",
+   "state": "MN",
+   "special": false,
+   "incumbent": {
+    "name": "Tim Walz",
+    "party": "DEM",
+    "status": "retiring",
+    "term_limited": false
+   },
+   "status_note": "open (Walz dropped reelection bid Jan 5, 2026)",
+   "candidates": [
+    {
+     "id": "MN-G-01",
+     "name": "Amy Klobuchar",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "US Senator (DFL)",
+     "photo": "assets/photos/MN-G-01.jpg",
+     "bioguide": "K000367"
+    },
+    {
+     "id": "MN-G-02",
+     "name": "Lisa Demuth",
+     "party": "REP",
+     "incumbent": false,
+     "note": "State House Speaker"
+    }
+   ]
+  },
+  {
+   "id": "2026-NE-governor",
+   "office": "governor",
+   "state": "NE",
+   "special": false,
+   "incumbent": {
+    "name": "Jim Pillen",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "NE-G-01",
+     "name": "Jim Pillen",
+     "party": "REP",
+     "incumbent": true
+    },
+    {
+     "id": "NE-G-02",
+     "name": "Lynne Walz",
+     "party": "DEM",
+     "incumbent": false
+    },
+    {
+     "id": "NE-G-03",
+     "name": "Rick Beard",
+     "party": "OTH",
+     "incumbent": false,
+     "party_label": "Legal Marijuana NOW"
+    }
+   ]
+  },
+  {
+   "id": "2026-NV-governor",
+   "office": "governor",
+   "state": "NV",
+   "special": false,
+   "incumbent": {
+    "name": "Joe Lombardo",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "NV-G-01",
+     "name": "Joe Lombardo",
+     "party": "REP",
+     "incumbent": true
+    },
+    {
+     "id": "NV-G-02",
+     "name": "Aaron Ford",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Attorney General"
+    }
+   ]
+  },
+  {
+   "id": "2026-NH-governor",
+   "office": "governor",
+   "state": "NH",
+   "special": false,
+   "incumbent": {
+    "name": "Kelly Ayotte",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running (2-year term)",
+   "candidates": [
+    {
+     "id": "NH-G-01",
+     "name": "Kelly Ayotte",
+     "party": "REP",
+     "incumbent": true,
+     "photo": "assets/photos/NH-G-01.jpg",
+     "bioguide": "A000368"
+    },
+    {
+     "id": "NH-G-02",
+     "name": "Cinde Warmington",
+     "party": "DEM",
+     "incumbent": false
+    },
+    {
+     "id": "NH-G-03",
+     "name": "Stephen Villee",
+     "party": "IND",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-NM-governor",
+   "office": "governor",
+   "state": "NM",
+   "special": false,
+   "incumbent": {
+    "name": "Michelle Lujan Grisham",
+    "party": "DEM",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "NM-G-01",
+     "name": "Deb Haaland",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Former Interior Secretary",
+     "photo": "assets/photos/NM-G-01.jpg",
+     "bioguide": "H001080"
+    },
+    {
+     "id": "NM-G-02",
+     "name": "Gregg Hull",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Rio Rancho mayor"
+    }
+   ]
+  },
+  {
+   "id": "2026-NY-governor",
+   "office": "governor",
+   "state": "NY",
+   "special": false,
+   "incumbent": {
+    "name": "Kathy Hochul",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "NY-G-01",
+     "name": "Kathy Hochul",
+     "party": "DEM",
+     "incumbent": true,
+     "photo": "assets/photos/NY-G-01.jpg",
+     "bioguide": "H001062"
+    },
+    {
+     "id": "NY-G-02",
+     "name": "Bruce Blakeman",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Also Conservative line"
+    },
+    {
+     "id": "NY-G-03",
+     "name": "Larry Sharpe",
+     "party": "OTH",
+     "incumbent": false,
+     "party_label": "Coalition line"
+    }
+   ]
+  },
+  {
+   "id": "2026-OH-governor",
+   "office": "governor",
+   "state": "OH",
+   "special": false,
+   "incumbent": {
+    "name": "Mike DeWine",
+    "party": "REP",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "OH-G-01",
+     "name": "Vivek Ramaswamy",
+     "party": "REP",
+     "incumbent": false
+    },
+    {
+     "id": "OH-G-02",
+     "name": "Amy Acton",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Former state health director"
+    },
+    {
+     "id": "OH-G-03",
+     "name": "Don Kissick",
+     "party": "LIB",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-OK-governor",
+   "office": "governor",
+   "state": "OK",
+   "special": false,
+   "incumbent": {
+    "name": "Kevin Stitt",
+    "party": "REP",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "OK-G-01",
+     "name": "Mike Mazzei",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Beat AG Gentner Drummond in Aug 25 runoff"
+    },
+    {
+     "id": "OK-G-02",
+     "name": "Cyndi Munson",
+     "party": "DEM",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-OR-governor",
+   "office": "governor",
+   "state": "OR",
+   "special": false,
+   "incumbent": {
+    "name": "Tina Kotek",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "OR-G-01",
+     "name": "Tina Kotek",
+     "party": "DEM",
+     "incumbent": true
+    },
+    {
+     "id": "OR-G-02",
+     "name": "Christine Drazan",
+     "party": "REP",
+     "incumbent": false,
+     "note": "2022 rematch"
+    }
+   ]
+  },
+  {
+   "id": "2026-PA-governor",
+   "office": "governor",
+   "state": "PA",
+   "special": false,
+   "incumbent": {
+    "name": "Josh Shapiro",
+    "party": "DEM",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "PA-G-01",
+     "name": "Josh Shapiro",
+     "party": "DEM",
+     "incumbent": true
+    },
+    {
+     "id": "PA-G-02",
+     "name": "Stacy Garrity",
+     "party": "REP",
+     "incumbent": false,
+     "note": "State Treasurer"
+    },
+    {
+     "id": "PA-G-03",
+     "name": "Ken Krawchuk",
+     "party": "LIB",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-RI-governor",
+   "office": "governor",
+   "state": "RI",
+   "special": false,
+   "incumbent": {
+    "name": "Dan McKee",
+    "party": "DEM",
+    "status": "lost-primary",
+    "term_limited": false
+   },
+   "status_note": "open (incumbent lost Sep 9 Democratic primary)",
+   "candidates": [
+    {
+     "id": "RI-G-01",
+     "name": "Helena Foulkes",
+     "party": "DEM",
+     "incumbent": false
+    },
+    {
+     "id": "RI-G-02",
+     "name": "Aaron Guckian",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Certified winner Sep 15 over Elaine Pelino by 259 votes"
+    }
+   ]
+  },
+  {
+   "id": "2026-SC-governor",
+   "office": "governor",
+   "state": "SC",
+   "special": false,
+   "incumbent": {
+    "name": "Henry McMaster",
+    "party": "REP",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "SC-G-01",
+     "name": "Alan Wilson",
+     "party": "REP",
+     "incumbent": false,
+     "note": "Attorney General"
+    },
+    {
+     "id": "SC-G-02",
+     "name": "Jermaine Johnson",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "State rep"
+    }
+   ]
+  },
+  {
+   "id": "2026-SD-governor",
+   "office": "governor",
+   "state": "SD",
+   "special": false,
+   "incumbent": {
+    "name": "Larry Rhoden",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "SD-G-01",
+     "name": "Larry Rhoden",
+     "party": "REP",
+     "incumbent": true,
+     "note": "Won Jul 28 runoff vs Toby Doeden"
+    },
+    {
+     "id": "SD-G-02",
+     "name": "Dan Ahlers",
+     "party": "DEM",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-TN-governor",
+   "office": "governor",
+   "state": "TN",
+   "special": false,
+   "incumbent": {
+    "name": "Bill Lee",
+    "party": "REP",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "TN-G-01",
+     "name": "Marsha Blackburn",
+     "party": "REP",
+     "incumbent": false,
+     "note": "US Senator",
+     "photo": "assets/photos/TN-G-01.jpg",
+     "bioguide": "B001243"
+    },
+    {
+     "id": "TN-G-02",
+     "name": "Jerri Green",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Memphis City Council"
+    }
+   ]
+  },
+  {
+   "id": "2026-TX-governor",
+   "office": "governor",
+   "state": "TX",
+   "special": false,
+   "incumbent": {
+    "name": "Greg Abbott",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running",
+   "candidates": [
+    {
+     "id": "TX-G-01",
+     "name": "Greg Abbott",
+     "party": "REP",
+     "incumbent": true
+    },
+    {
+     "id": "TX-G-02",
+     "name": "Gina Hinojosa",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "State rep"
+    }
+   ]
+  },
+  {
+   "id": "2026-VT-governor",
+   "office": "governor",
+   "state": "VT",
+   "special": false,
+   "incumbent": {
+    "name": "Phil Scott",
+    "party": "REP",
+    "status": "running",
+    "term_limited": false
+   },
+   "status_note": "incumbent running (2-year term)",
+   "candidates": [
+    {
+     "id": "VT-G-01",
+     "name": "Phil Scott",
+     "party": "REP",
+     "incumbent": true
+    },
+    {
+     "id": "VT-G-02",
+     "name": "Amanda Janoo",
+     "party": "DEM",
+     "incumbent": false
+    }
+   ]
+  },
+  {
+   "id": "2026-WI-governor",
+   "office": "governor",
+   "state": "WI",
+   "special": false,
+   "incumbent": {
+    "name": "Tony Evers",
+    "party": "DEM",
+    "status": "retiring",
+    "term_limited": false
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "WI-G-01",
+     "name": "David Crowley",
+     "party": "DEM",
+     "incumbent": false,
+     "note": "Milwaukee County Executive"
+    },
+    {
+     "id": "WI-G-02",
+     "name": "Tom Tiffany",
+     "party": "REP",
+     "incumbent": false,
+     "note": "US Rep",
+     "photo": "assets/photos/WI-G-02.jpg",
+     "bioguide": "T000165"
+    }
+   ]
+  },
+  {
+   "id": "2026-WY-governor",
+   "office": "governor",
+   "state": "WY",
+   "special": false,
+   "incumbent": {
+    "name": "Mark Gordon",
+    "party": "REP",
+    "status": "term-limited",
+    "term_limited": true
+   },
+   "status_note": "open",
+   "candidates": [
+    {
+     "id": "WY-G-01",
+     "name": "Eric Barlow",
+     "party": "REP",
+     "incumbent": false,
+     "note": "State senator; beat Trump-backed Megan Degenfelder"
+    },
+    {
+     "id": "WY-G-02",
+     "name": "Kenneth Casner",
+     "party": "DEM",
+     "incumbent": false
+    }
+   ]
+  }
+ ]
+}

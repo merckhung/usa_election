@@ -1,0 +1,77 @@
+{
+ "schema": "usa_election.parties/v1",
+ "parties": [
+  {
+   "code": "DEM",
+   "color": "#1A6AFF",
+   "name_en": "Democratic Party",
+   "name_es": "Partido Demócrata",
+   "name_zh": "民主黨",
+   "name_ja": "民主党",
+   "short_en": "DEM",
+   "short_es": "DEM",
+   "short_zh": "民主",
+   "short_ja": "民主"
+  },
+  {
+   "code": "REP",
+   "color": "#E0283C",
+   "name_en": "Republican Party",
+   "name_es": "Partido Republicano",
+   "name_zh": "共和黨",
+   "name_ja": "共和党",
+   "short_en": "REP",
+   "short_es": "REP",
+   "short_zh": "共和",
+   "short_ja": "共和"
+  },
+  {
+   "code": "IND",
+   "color": "#8E5CC8",
+   "name_en": "Independent",
+   "name_es": "Independiente",
+   "name_zh": "無黨籍",
+   "name_ja": "無所属",
+   "short_en": "IND",
+   "short_es": "IND",
+   "short_zh": "無黨",
+   "short_ja": "無所属"
+  },
+  {
+   "code": "LIB",
+   "color": "#E8B21A",
+   "name_en": "Libertarian Party",
+   "name_es": "Partido Libertario",
+   "name_zh": "自由意志黨",
+   "name_ja": "リバタリアン党",
+   "short_en": "LIB",
+   "short_es": "LIB",
+   "short_zh": "自由",
+   "short_ja": "リバ"
+  },
+  {
+   "code": "GRN",
+   "color": "#2DA84E",
+   "name_en": "Green Party",
+   "name_es": "Partido Verde",
+   "name_zh": "綠黨",
+   "name_ja": "緑の党",
+   "short_en": "GRN",
+   "short_es": "VER",
+   "short_zh": "綠黨",
+   "short_ja": "緑"
+  },
+  {
+   "code": "OTH",
+   "color": "#8C8C8C",
+   "name_en": "Other party",
+   "name_es": "Otro partido",
+   "name_zh": "其他政黨",
+   "name_ja": "その他",
+   "short_en": "OTH",
+   "short_es": "OTR",
+   "short_zh": "其他",
+   "short_ja": "他"
+  }
+ ]
+}

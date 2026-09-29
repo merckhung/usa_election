@@ -1,0 +1,1237 @@
+{
+ "declarations": [],
+ "house": {
+  "AK": {
+   "seats": 1,
+   "won": {}
+  },
+  "AL": {
+   "seats": 7,
+   "won": {}
+  },
+  "AR": {
+   "seats": 4,
+   "won": {}
+  },
+  "AZ": {
+   "seats": 9,
+   "won": {}
+  },
+  "CA": {
+   "seats": 52,
+   "won": {}
+  },
+  "CO": {
+   "seats": 8,
+   "won": {}
+  },
+  "CT": {
+   "seats": 5,
+   "won": {}
+  },
+  "DE": {
+   "seats": 1,
+   "won": {}
+  },
+  "FL": {
+   "seats": 28,
+   "won": {}
+  },
+  "GA": {
+   "seats": 14,
+   "won": {}
+  },
+  "HI": {
+   "seats": 2,
+   "won": {}
+  },
+  "IA": {
+   "seats": 4,
+   "won": {}
+  },
+  "ID": {
+   "seats": 2,
+   "won": {}
+  },
+  "IL": {
+   "seats": 17,
+   "won": {}
+  },
+  "IN": {
+   "seats": 9,
+   "won": {}
+  },
+  "KS": {
+   "seats": 4,
+   "won": {}
+  },
+  "KY": {
+   "seats": 6,
+   "won": {}
+  },
+  "LA": {
+   "seats": 6,
+   "won": {}
+  },
+  "MA": {
+   "seats": 9,
+   "won": {}
+  },
+  "MD": {
+   "seats": 8,
+   "won": {}
+  },
+  "ME": {
+   "seats": 2,
+   "won": {}
+  },
+  "MI": {
+   "seats": 13,
+   "won": {}
+  },
+  "MN": {
+   "seats": 8,
+   "won": {}
+  },
+  "MO": {
+   "seats": 8,
+   "won": {}
+  },
+  "MS": {
+   "seats": 4,
+   "won": {}
+  },
+  "MT": {
+   "seats": 2,
+   "won": {}
+  },
+  "NC": {
+   "seats": 14,
+   "won": {}
+  },
+  "ND": {
+   "seats": 1,
+   "won": {}
+  },
+  "NE": {
+   "seats": 3,
+   "won": {}
+  },
+  "NH": {
+   "seats": 2,
+   "won": {}
+  },
+  "NJ": {
+   "seats": 12,
+   "won": {}
+  },
+  "NM": {
+   "seats": 3,
+   "won": {}
+  },
+  "NV": {
+   "seats": 4,
+   "won": {}
+  },
+  "NY": {
+   "seats": 26,
+   "won": {}
+  },
+  "OH": {
+   "seats": 15,
+   "won": {}
+  },
+  "OK": {
+   "seats": 5,
+   "won": {}
+  },
+  "OR": {
+   "seats": 6,
+   "won": {}
+  },
+  "PA": {
+   "seats": 17,
+   "won": {}
+  },
+  "RI": {
+   "seats": 2,
+   "won": {}
+  },
+  "SC": {
+   "seats": 7,
+   "won": {}
+  },
+  "SD": {
+   "seats": 1,
+   "won": {}
+  },
+  "TN": {
+   "seats": 9,
+   "won": {}
+  },
+  "TX": {
+   "seats": 38,
+   "won": {}
+  },
+  "UT": {
+   "seats": 4,
+   "won": {}
+  },
+  "VA": {
+   "seats": 11,
+   "won": {}
+  },
+  "VT": {
+   "seats": 1,
+   "won": {}
+  },
+  "WA": {
+   "seats": 10,
+   "won": {}
+  },
+  "WI": {
+   "seats": 8,
+   "won": {}
+  },
+  "WV": {
+   "seats": 2,
+   "won": {}
+  },
+  "WY": {
+   "seats": 1,
+   "won": {}
+  }
+ },
+ "races": {
+  "2026-AK-governor": {
+   "regions": {
+    "02": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "AK-G-01": 0,
+      "AK-G-02": 0,
+      "AK-G-03": 0,
+      "AK-G-04": 0
+     }
+    }
+   }
+  },
+  "2026-AK-senate": {
+   "regions": {
+    "02": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "AK-S-01": 0,
+      "AK-S-02": 0,
+      "AK-S-03": 0,
+      "AK-S-04": 0
+     }
+    }
+   }
+  },
+  "2026-AL-governor": {
+   "regions": {
+    "01": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "AL-G-01": 0,
+      "AL-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-AL-senate": {
+   "regions": {
+    "01": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "AL-S-01": 0,
+      "AL-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-AR-governor": {
+   "regions": {
+    "05": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "AR-G-01": 0,
+      "AR-G-02": 0,
+      "AR-G-03": 0
+     }
+    }
+   }
+  },
+  "2026-AR-senate": {
+   "regions": {
+    "05": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "AR-S-01": 0,
+      "AR-S-02": 0,
+      "AR-S-03": 0
+     }
+    }
+   }
+  },
+  "2026-AZ-governor": {
+   "regions": {
+    "04": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "AZ-G-01": 0,
+      "AZ-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-CA-governor": {
+   "regions": {
+    "06": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "CA-G-01": 0,
+      "CA-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-CO-governor": {
+   "regions": {
+    "08": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "CO-G-01": 0,
+      "CO-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-CO-senate": {
+   "regions": {
+    "08": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "CO-S-01": 0,
+      "CO-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-CT-governor": {
+   "regions": {
+    "09": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "CT-G-01": 0,
+      "CT-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-DE-senate": {
+   "regions": {
+    "10": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "DE-S-01": 0,
+      "DE-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-FL-governor": {
+   "regions": {
+    "12": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "FL-G-01": 0,
+      "FL-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-FL-senate": {
+   "regions": {
+    "12": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "FL-S-01": 0,
+      "FL-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-GA-governor": {
+   "regions": {
+    "13": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "GA-G-01": 0,
+      "GA-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-GA-senate": {
+   "regions": {
+    "13": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "GA-S-01": 0,
+      "GA-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-HI-governor": {
+   "regions": {
+    "15": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "HI-G-01": 0,
+      "HI-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-IA-governor": {
+   "regions": {
+    "19": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "IA-G-01": 0,
+      "IA-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-IA-senate": {
+   "regions": {
+    "19": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "IA-S-01": 0,
+      "IA-S-02": 0,
+      "IA-S-03": 0
+     }
+    }
+   }
+  },
+  "2026-ID-governor": {
+   "regions": {
+    "16": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "ID-G-01": 0,
+      "ID-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-ID-senate": {
+   "regions": {
+    "16": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "ID-S-01": 0,
+      "ID-S-02": 0,
+      "ID-S-03": 0,
+      "ID-S-04": 0
+     }
+    }
+   }
+  },
+  "2026-IL-governor": {
+   "regions": {
+    "17": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "IL-G-01": 0,
+      "IL-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-IL-senate": {
+   "regions": {
+    "17": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "IL-S-01": 0,
+      "IL-S-02": 0,
+      "IL-S-03": 0
+     }
+    }
+   }
+  },
+  "2026-KS-governor": {
+   "regions": {
+    "20": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "KS-G-01": 0,
+      "KS-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-KS-senate": {
+   "regions": {
+    "20": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "KS-S-01": 0,
+      "KS-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-KY-senate": {
+   "regions": {
+    "21": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "KY-S-01": 0,
+      "KY-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-LA-senate": {
+   "regions": {
+    "22": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "LA-S-01": 0,
+      "LA-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-MA-governor": {
+   "regions": {
+    "25": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "MA-G-01": 0,
+      "MA-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-MA-senate": {
+   "regions": {
+    "25": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "MA-S-01": 0,
+      "MA-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-MD-governor": {
+   "regions": {
+    "24": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "MD-G-01": 0,
+      "MD-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-ME-governor": {
+   "regions": {
+    "23": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "ME-G-01": 0,
+      "ME-G-02": 0,
+      "ME-G-03": 0
+     }
+    }
+   }
+  },
+  "2026-ME-senate": {
+   "regions": {
+    "23": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "ME-S-01": 0,
+      "ME-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-MI-governor": {
+   "regions": {
+    "26": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "MI-G-01": 0,
+      "MI-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-MI-senate": {
+   "regions": {
+    "26": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "MI-S-01": 0,
+      "MI-S-02": 0,
+      "MI-S-03": 0,
+      "MI-S-04": 0,
+      "MI-S-05": 0
+     }
+    }
+   }
+  },
+  "2026-MN-governor": {
+   "regions": {
+    "27": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "MN-G-01": 0,
+      "MN-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-MN-senate": {
+   "regions": {
+    "27": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "MN-S-01": 0,
+      "MN-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-MS-senate": {
+   "regions": {
+    "28": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "MS-S-01": 0,
+      "MS-S-02": 0,
+      "MS-S-03": 0
+     }
+    }
+   }
+  },
+  "2026-MT-senate": {
+   "regions": {
+    "30": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "MT-S-01": 0,
+      "MT-S-02": 0,
+      "MT-S-03": 0,
+      "MT-S-04": 0
+     }
+    }
+   }
+  },
+  "2026-NC-senate": {
+   "regions": {
+    "37": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "NC-S-01": 0,
+      "NC-S-02": 0,
+      "NC-S-03": 0,
+      "NC-S-04": 0,
+      "NC-S-05": 0
+     }
+    }
+   }
+  },
+  "2026-NE-governor": {
+   "regions": {
+    "31": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "NE-G-01": 0,
+      "NE-G-02": 0,
+      "NE-G-03": 0
+     }
+    }
+   }
+  },
+  "2026-NE-senate": {
+   "regions": {
+    "31": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "NE-S-01": 0,
+      "NE-S-02": 0,
+      "NE-S-03": 0,
+      "NE-S-04": 0,
+      "NE-S-05": 0
+     }
+    }
+   }
+  },
+  "2026-NH-governor": {
+   "regions": {
+    "33": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "NH-G-01": 0,
+      "NH-G-02": 0,
+      "NH-G-03": 0
+     }
+    }
+   }
+  },
+  "2026-NH-senate": {
+   "regions": {
+    "33": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "NH-S-01": 0,
+      "NH-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-NJ-senate": {
+   "regions": {
+    "34": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "NJ-S-01": 0,
+      "NJ-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-NM-governor": {
+   "regions": {
+    "35": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "NM-G-01": 0,
+      "NM-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-NM-senate": {
+   "regions": {
+    "35": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "NM-S-01": 0,
+      "NM-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-NV-governor": {
+   "regions": {
+    "32": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "NV-G-01": 0,
+      "NV-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-NY-governor": {
+   "regions": {
+    "36": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "NY-G-01": 0,
+      "NY-G-02": 0,
+      "NY-G-03": 0
+     }
+    }
+   }
+  },
+  "2026-OH-governor": {
+   "regions": {
+    "39": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "OH-G-01": 0,
+      "OH-G-02": 0,
+      "OH-G-03": 0
+     }
+    }
+   }
+  },
+  "2026-OH-senate": {
+   "regions": {
+    "39": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "OH-S-01": 0,
+      "OH-S-02": 0,
+      "OH-S-03": 0,
+      "OH-S-04": 0
+     }
+    }
+   }
+  },
+  "2026-OK-governor": {
+   "regions": {
+    "40": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "OK-G-01": 0,
+      "OK-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-OK-senate": {
+   "regions": {
+    "40": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "OK-S-01": 0,
+      "OK-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-OR-governor": {
+   "regions": {
+    "41": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "OR-G-01": 0,
+      "OR-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-OR-senate": {
+   "regions": {
+    "41": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "OR-S-01": 0,
+      "OR-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-PA-governor": {
+   "regions": {
+    "42": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "PA-G-01": 0,
+      "PA-G-02": 0,
+      "PA-G-03": 0
+     }
+    }
+   }
+  },
+  "2026-RI-governor": {
+   "regions": {
+    "44": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "RI-G-01": 0,
+      "RI-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-RI-senate": {
+   "regions": {
+    "44": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "RI-S-01": 0,
+      "RI-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-SC-governor": {
+   "regions": {
+    "45": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "SC-G-01": 0,
+      "SC-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-SC-senate": {
+   "regions": {
+    "45": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "SC-S-01": 0,
+      "SC-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-SD-governor": {
+   "regions": {
+    "46": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "SD-G-01": 0,
+      "SD-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-SD-senate": {
+   "regions": {
+    "46": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "SD-S-01": 0,
+      "SD-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-TN-governor": {
+   "regions": {
+    "47": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "TN-G-01": 0,
+      "TN-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-TN-senate": {
+   "regions": {
+    "47": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "TN-S-01": 0,
+      "TN-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-TX-governor": {
+   "regions": {
+    "48": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "TX-G-01": 0,
+      "TX-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-TX-senate": {
+   "regions": {
+    "48": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "TX-S-01": 0,
+      "TX-S-02": 0,
+      "TX-S-03": 0
+     }
+    }
+   }
+  },
+  "2026-VA-senate": {
+   "regions": {
+    "51": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "VA-S-01": 0,
+      "VA-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-VT-governor": {
+   "regions": {
+    "50": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "VT-G-01": 0,
+      "VT-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-WI-governor": {
+   "regions": {
+    "55": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "WI-G-01": 0,
+      "WI-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-WV-senate": {
+   "regions": {
+    "54": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "WV-S-01": 0,
+      "WV-S-02": 0
+     }
+    }
+   }
+  },
+  "2026-WY-governor": {
+   "regions": {
+    "56": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "WY-G-01": 0,
+      "WY-G-02": 0
+     }
+    }
+   }
+  },
+  "2026-WY-senate": {
+   "regions": {
+    "56": {
+     "ballots_cast": 0,
+     "eligible": 0,
+     "units_counted": 0,
+     "units_total": 0,
+     "votes": {
+      "WY-S-01": 0,
+      "WY-S-02": 0
+     }
+    }
+   }
+  }
+ },
+ "schema": "usa_election.results/v1",
+ "simulated": false,
+ "source": "template",
+ "status": "pre-election",
+ "updated_at": ""
+}

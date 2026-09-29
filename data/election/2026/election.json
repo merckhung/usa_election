@@ -1,0 +1,292 @@
+{
+ "schema": "usa_election.election/v1",
+ "id": "2026-us-midterm",
+ "date": "2026-11-03",
+ "next_date": "2026-11-04",
+ "name": "2026 United States elections (midterms)",
+ "status_note": "Nominees as of 2026-09-29. Results in this app are SIMULATED unless a live results file is supplied.",
+ "senate": {
+  "total": 100,
+  "majority": 51,
+  "before": {
+   "REP": 53,
+   "DEM": 45,
+   "IND": 2
+  },
+  "holdovers": {
+   "REP": 31,
+   "DEM": 32,
+   "IND": 2
+  },
+  "tie_breaker": {
+   "party": "REP",
+   "name": "JD Vance"
+  },
+  "caucus": {
+   "IND": "DEM"
+  },
+  "note": "2 independents (Bernie Sanders VT, Angus King ME) caucus with Democrats (47 effective). Mid-term changes were same-party: Alan Armstrong (R-OK) appointed Mar 2026 replacing Markwayne Mullin; Darline Graham (R-SC) appointed Jul 2026 after Lindsey Graham's death."
+ },
+ "house": {
+  "total": 435,
+  "majority": 218,
+  "before": {
+   "REP": 218,
+   "DEM": 214,
+   "IND": 1,
+   "vacant": 2
+  },
+  "note": "Majority 218. Kiley (I, CA-3) caucuses with GOP. Delegation numbers reflect current seats under 2024 maps, NOT the new 2026 maps.",
+  "redistricting_2026": {
+   "TX": "New 2025 GOP map targets +5 R (unverified notional ~30R-8D)",
+   "CA": "Prop 50 (Nov 2025) Dem map targets +5 D (notional ~48D-4R, unverified)",
+   "MO": "2025 GOP map targets +1 R (KC seat)",
+   "NC": "2025 GOP map targets +1 R",
+   "OH": "Oct 2025 commission map: 12 R-leaning / 3 D-leaning (was 10-5)",
+   "UT": "Court-ordered map creates 1 D-leaning seat",
+   "FL": "May 2026 map could flip up to 4 seats to R; FL Supreme Court allowed it for 2026 (Jun 10)",
+   "LA": "Post-Callais map (May 29 2026) eliminates 1 of 2 Black-majority/D seats",
+   "TN": "May 2026 map cracks Memphis TN-9 (D+22 -> R+9)",
+   "AL": "Reverted to 2023 map post-Callais; SCOTUS allowed for 2026; expected 6R-1D",
+   "VA": "Apr 2026 referendum for 10D-1R map passed but voided by VA courts; existing map stays",
+   "MD": "Dem redraw stalled in state Senate; no change for 2026",
+   "summary": "Per NBC/press reports: R could gain up to ~16 seats from new maps in TX, MO, NC, OH, FL, TN, LA, AL; D up to ~6 from CA, UT."
+  }
+ },
+ "governors_before": {
+  "REP": 26,
+  "DEM": 24
+ },
+ "offices": [
+  {
+   "office": "senate",
+   "seats": 35
+  },
+  {
+   "office": "governor",
+   "seats": 36
+  },
+  {
+   "office": "house",
+   "seats": 435
+  }
+ ],
+ "sources": [
+  {
+   "title": "Ballotpedia: United States Senate elections, 2026",
+   "url": "https://ballotpedia.org/United_States_Senate_elections,_2026"
+  },
+  {
+   "title": "Wikipedia: 2026 United States Senate elections",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections"
+  },
+  {
+   "title": "Time: Who Is Replacing Markwayne Mullin in the Senate?",
+   "url": "https://time.com/article/2026/03/24/markwayne-mullin-senate-oklahoma-alan-armstrong/"
+  },
+  {
+   "title": "NPR: Darline Graham sworn in to serve out brother's term",
+   "url": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham"
+  },
+  {
+   "title": "NPR: Darline Graham wins GOP nomination (SC runoff)",
+   "url": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement"
+  },
+  {
+   "title": "Roll Call: Daines announces surprise retirement",
+   "url": "https://rollcall.com/2026/03/04/sen-steve-daines-announces-surprise-retirement/"
+  },
+  {
+   "title": "Ballotpedia News: Four general election candidates in Montana",
+   "url": "https://news.ballotpedia.org/2026/07/14/four-general-election-candidates-to-compete-for-montanas-open-u-s-senate-seat/"
+  },
+  {
+   "title": "Texas Tribune: Paxton defeats Cornyn in runoff",
+   "url": "https://www.texastribune.org/2026/05/26/texas-john-cornyn-ken-paxton-us-senate-republican-primary-runoff/"
+  },
+  {
+   "title": "NBC: Mike Collins wins GOP runoff in Georgia",
+   "url": "https://www.nbcnews.com/politics/2026-election/georgia-senate-midterms-primary-winner-collins-rcna350028"
+  },
+  {
+   "title": "Ballotpedia News: NC candidates",
+   "url": "https://news.ballotpedia.org/2026/04/06/roy-cooper-d-michael-whatley-r-and-three-other-candidates-are-running-in-north-carolinas-u-s-senate-election-on-november-3-2026/"
+  },
+  {
+   "title": "CNBC: El-Sayed wins Michigan Democratic primary",
+   "url": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html"
+  },
+  {
+   "title": "NPR: Troy Jackson replaces Graham Platner in Maine",
+   "url": "https://www.npr.org/2026/07/26/nx-s1-5906372/troy-jackson-replaces-graham-platner-as-democratic-candidate-in-maines-senate-race"
+  },
+  {
+   "title": "Ballotpedia News: Ohio special election",
+   "url": "https://news.ballotpedia.org/2026/06/08/appointed-senator-and-former-senator-face-off-in-ohios-u-s-senate-special-election/"
+  },
+  {
+   "title": "NBC: Angie Nixon wins Florida Democratic primary",
+   "url": "https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-florida-senate-primary-democrat-alex-vindman-moody-rcna593255"
+  },
+  {
+   "title": "CBS: Iowa Senate race set (Hinson/Turek)",
+   "url": "https://www.cbsnews.com/news/iowa-senate-primary-results-ashley-hinson-josh-turek-zach-wahls/"
+  },
+  {
+   "title": "NBC NH Senate primary results",
+   "url": "https://www.nbcnews.com/politics/2026-primary-elections/new-hampshire-senate-results"
+  },
+  {
+   "title": "NPR: Flanagan wins Minnesota Democratic primary",
+   "url": "https://www.npr.org/2026/08/11/nx-s1-5927473/2026-minnesota-senate-primary-election-peggy-flanagan"
+  },
+  {
+   "title": "CBS Chicago: Illinois general election candidates",
+   "url": "https://www.cbsnews.com/chicago/news/who-is-running-us-senate-illinois-general-election-2026/"
+  },
+  {
+   "title": "Alabama Reflector: AL Senate primary",
+   "url": "https://alabamareflector.com/2026/05/20/steve-marshall-concedes-in-u-s-senate-race-barry-moore-jared-hudson-go-to-gop-runoff/"
+  },
+  {
+   "title": "LPM: Booker wins KY Democratic primary",
+   "url": "https://www.lpm.org/news/2026-05-19/charles-booker-wins-democratic-primary-for-us-senate-in-kentucky-will-face-barr"
+  },
+  {
+   "title": "Axios New Orleans: Letlow, Davis earn nominations",
+   "url": "https://www.axios.com/local/new-orleans/2026/06/29/julia-letlow-jamie-davis-us-senate-louisiana-primary"
+  },
+  {
+   "title": "Nebraska Public Media: Senate voter guide",
+   "url": "https://nebraskapublicmedia.org/en/news/news-articles/us-senate-voter-guide-rollercoaster-race-features-four-candidates/"
+  },
+  {
+   "title": "Nebraska Examiner: Burbank won't appear on ballot",
+   "url": "https://nebraskaexaminer.com/2026/07/21/nebraska-secretary-of-state-says-democrat-cindy-burbank-wont-appear-on-us-senate-ballot/"
+  },
+  {
+   "title": "NBC: Alaska finalizes Senate race",
+   "url": "https://www.nbcnews.com/politics/2026-election/alaska-finalizes-senate-race-3-republicans-2-dan-sullivan-1-democrat-rcna595617"
+  },
+  {
+   "title": "Mississippi Today: Hyde-Smith vs Colom, Pinkins",
+   "url": "https://mississippitoday.org/2026/09/21/mississippi-midterms-senate-hyde-smith-colom/"
+  },
+  {
+   "title": "Arkansas Advocate: US Senate general voter guide",
+   "url": "https://arkansasadvocate.com/voter-guides/contests/2026-general-u-s-senate/"
+  },
+  {
+   "title": "Roll Call: Idaho Democrat drops out",
+   "url": "https://rollcall.com/2026/07/29/idaho-democrat-is-latest-senate-nominee-to-drop-out-in-boost-to-independent-rival/"
+  },
+  {
+   "title": "NBC: South Dakota Democrat drops out",
+   "url": "https://www.nbcnews.com/politics/2026-election/democrat-drops-out-south-dakota-senate-race-independent-candidate-rcna590883"
+  },
+  {
+   "title": "West Virginia Watch: Capito vs Fetty Anderson",
+   "url": "https://westvirginiawatch.com/2026/05/12/capito-easily-secures-gop-nomination-for-u-s-senate-seat-tuesday-shortly-after-polls-close-in-wv/"
+  },
+  {
+   "title": "CPR: Hickenlooper defeats Gonzales",
+   "url": "https://www.cpr.org/2026/06/30/colorado-us-senate-primary-election-2026-results/"
+  },
+  {
+   "title": "WBUR: Markey defeats Moulton",
+   "url": "https://www.wbur.org/news/2026/09/01/massachusetts-senate-democratic-primary-markey-wins-moulton"
+  },
+  {
+   "title": "WHYY: Justin Murphy wins NJ GOP primary",
+   "url": "https://whyy.org/articles/new-jersey-election-2026-primary-senate-republican-nomination/"
+  },
+  {
+   "title": "Source NM: New Mexico US Senate",
+   "url": "https://sourcenm.com/2026/09/11/new-mexico-election-2026-us-senator/"
+  },
+  {
+   "title": "Washington Post: Oregon Senate primary results",
+   "url": "https://www.washingtonpost.com/elections/2026/05/19/oregon-senate-primary-election-results-2026-live-updates/"
+  },
+  {
+   "title": "Virginia Mercury: Mizusawa to face Warner",
+   "url": "https://virginiamercury.com/2026/08/04/virginia-primary-voters-pick-mizusawa-to-face-warner-finalize-key-us-house-races/"
+  },
+  {
+   "title": "WHYY: Coons wins Delaware primary",
+   "url": "https://whyy.org/articles/election-2026-delaware-primary-senate-democrat-winner/"
+  },
+  {
+   "title": "Nashville Banner: Bradshaw wins TN primary",
+   "url": "https://nashvillebanner.com/2026/08/06/marquita-bradshaw-bill-hagerty-tennessee-senate-rematch/"
+  },
+  {
+   "title": "NBC: Hern wins Oklahoma GOP primary",
+   "url": "https://www.nbcnews.com/politics/2026-election/oklahoma-senate-primary-midterms-republican-winner-hern-rcna350033"
+  },
+  {
+   "title": "ABC: Wyoming primary results",
+   "url": "https://abcnews.com/Politics/wyoming-2026-live-primary-election-results/story?id=134597860"
+  },
+  {
+   "title": "Houston Public Media: Libertarian Ted Brown (TX)",
+   "url": "https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/06/02/553443/libertarian-ted-brown-senate-race-texas-paxton-talarico/"
+  },
+  {
+   "title": "Congress.gov bioguide (e.g. Darline Graham G000608)",
+   "url": "https://www.congress.gov/member/darline-graham/G000608"
+  },
+  {
+   "title": "Congress.gov bioguide Alan Armstrong A000383",
+   "url": "https://www.congress.gov/member/alan-armstrong/A000383"
+  },
+  {
+   "title": "Ballotpedia: Tie-breaking votes cast by J.D. Vance",
+   "url": "https://ballotpedia.org/Tie-breaking_votes_cast_by_J.D._Vance_in_the_U.S._Senate"
+  },
+  "nbcnews.com 2026 primary results pages (per state)",
+  "washingtonpost.com election results",
+  "pbs.org",
+  "coloradosun.com / coloradopolitics.com (CO GOP primary)",
+  "adn.com / alaskapublic.org / alaskabeacon.com (AK ballot)",
+  "southdakotasearchlight.com (SD runoff)",
+  "rhodeislandcurrent.com / bostonglobe.com (RI GOP primary)",
+  "news9.com (OK runoff)",
+  "ajc.com / npr.org (GA runoff)",
+  "iowacapitaldispatch.com (IA)",
+  "nebraskapublicmedia.org (NE)",
+  "spotlightpa.org (PA)",
+  "texastribune.org (TX)",
+  "mn.gov / cnn.com (Walz withdrawal)",
+  "michiganadvance.com (Duggan dropped May 2026)",
+  "pressgallery.house.gov party breakdown (via search summary)",
+  "cnn.com (Kiley independent)",
+  "rollcall.com (CA-14 Wahab)",
+  "thehill.com (CA-1 Gallagher)",
+  "floridaphoenix.com / npr.org (FL map)",
+  "vpm.org / cnbc.com (VA referendum)",
+  "abcnews.com (TN map)",
+  "democracydocket.com (AL map)",
+  "theadvocate.com (LA map)",
+  "multistate.us / bloomberg.com (governor counts)",
+  "270towin.com / thegreenpapers.com poll closing (search summaries)"
+ ],
+ "unverified": [
+  "All data from WebSearch result summaries only; WebFetch was blocked for ballotpedia, 270towin, cookpolitical, politico, thegreenpapers, senate.gov, upi. No primary source page was read in full.",
+  "No race has an undecided nominee: all primaries/runoffs (incl. Louisiana's new closed-primary runoff Jun 27, OK Dem runoff Aug 25, SC special GOP runoff Aug 25, DE Sep 15) are complete. Alaska and Maine use RCV in November.",
+  "Minor-party/independent candidate lists are incomplete for many states (e.g. MN, NH, KY, LA, SC, AL, GA, WV, KS, CO, VA, MA, OR, RI, NJ, NM, WY, TN, FL, DE, MS other than Pinkins); only candidates found in searches are listed.",
+  "GA: Libertarian Allen Buckley was reported as a candidate, but WABE reported Georgia Libertarians failed to make the 2026 ballot (write-in only); omitted from candidates.",
+  "Composition 53R-45D-2I confirmed only via search summaries; the two in-term vacancies (OK, SC) were filled by Republican appointees so the split is unchanged.",
+  "Bioguide IDs verified via search for: Moody M001244, Husted H001104, Sununu S001078 (history.house.gov URL), Darline Graham G000608, Armstrong A000383, Mike Collins C001129, Barry Moore M001212, Letlow L000595, Hern H001082, Hageman H001096, Hinson H001091, Pappas P000614, Peltola P000619, Mike Rogers R000572. Other sitting/former senators' IDs (e.g. B001282 Barr, R000618 Ricketts, B000944 Sherrod Brown, O000174 Ossoff, C001035 Collins, etc.) are from well-known bioguide records but not individually re-verified in this session.",
+  "Minor details from single summaries (not cross-checked): RI GOP nominee Raymond McKay; OR GOP nominee David Brock Smith; KS Dem nominee Adam Hamilton; AL Dem nominee Everett Wess; LA Dem nominee Jamie Davis; OK Dem nominee N'Kiyla Jasmine Thomas; NM GOP nominee Larry Marker; IL independent Whitfield Harrington; OH Redpath (L) and Levy (I); ID Natalie Fleming (I) and Matt Loesby (L); AR Jeff Wadlin (L); IA Thomas Laehn (L); MI minor-party candidates.",
+  "Delaware GOP nominee Michael Katz described as a 'former state senator' (he was a Democratic state senator historically) — party switch not verified.",
+  "All data from WebSearch summaries only (WebFetch blocked for all sites tried); not cross-checked against primary sources",
+  "2024 baseline House delegation splits are from model knowledge (sum checks to 220R-215D); per-state current splits derived, not fetched",
+  "Poll closing times from standard state laws (model knowledge), only partially confirmed by search; ND/ID/OR/AK latest closings especially",
+  "Minor/third-party candidate lists incomplete; Texas 'Jenn Mack Raphoon' party unknown; Nebraska Lindstrom party label; Maine minor candidates",
+  "Connecticut: Lamont WFP line / Fazio additional line unverified",
+  "Alaska: final ballot after Taylor reinstatement (whether any further litigation) unverified",
+  "Territory governor races not researched",
+  "Notional 2026-map delegation projections are targets from press reports, not results"
+ ]
+}

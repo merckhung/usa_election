@@ -1,0 +1,38 @@
+{
+  "_comment": "News sources for `usa_election --news` and `news_tool --fetch`. RSS 2.0 or Atom over http(s):// or file://. URLs could not be verified from the development sandbox (restricted outbound web access); disable any that fail. Drop *.jsonl files ({title,url,source,published,summary} per line) into inbox_dir to ingest other sources.",
+  "interval_seconds": 600,
+  "classify_per_cycle": 40,
+  "inbox_dir": "data/news/inbox",
+  "google_news_per_candidate": false,
+  "llm": {
+    "base_url": "https://api.openai.com/v1",
+    "model": "gpt-4o-mini",
+    "json_mode": true
+  },
+  "feeds": [
+    {
+      "name": "Google News: 2026 Senate races",
+      "url": "https://news.google.com/rss/search?q=2026+Senate+race&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: 2026 governor races",
+      "url": "https://news.google.com/rss/search?q=2026+governor+race&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: 2026 midterms",
+      "url": "https://news.google.com/rss/search?q=2026+midterm+elections&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "NPR Politics",
+      "url": "https://feeds.npr.org/1014/rss.xml"
+    },
+    {
+      "name": "PBS NewsHour Politics",
+      "url": "https://www.pbs.org/newshour/feeds/rss/politics"
+    },
+    {
+      "name": "The Hill: Campaign",
+      "url": "https://thehill.com/homenews/campaign/feed/"
+    }
+  ]
+}

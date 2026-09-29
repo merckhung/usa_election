@@ -1,0 +1,28 @@
+load("@rules_cc//cc:defs.bzl", "cc_library")
+
+package(default_visibility = ["//visibility:public"])
+
+cc_library(
+    name = "ui",
+    srcs = [
+        "avatars.cc",
+        "charts.cc",
+        "dashboard.cc",
+        "dashboard_live.cc",
+        "i18n.cc",
+        "text.cc",
+    ],
+    hdrs = [
+        "avatars.h",
+        "dashboard.h",
+        "i18n.h",
+        "text.h",
+    ],
+    deps = [
+        "//src/election",
+        "//src/geo",
+        "//src/store",
+        "@skia",
+        "@stb//:stb_image",
+    ],
+)

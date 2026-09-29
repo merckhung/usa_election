@@ -1,0 +1,14 @@
+Copyright 2026 usa_election authors
+
+Code is licensed under the MIT License (see LICENSE).
+
+Third-party data (not covered by the licence above):
+- data/map/counties-albers-10m.json: us-atlas 3.0.1 by Mike Bostock, ISC licence
+  (data/map/LICENSE.us-atlas), derived from the U.S. Census Bureau's cartographic
+  boundary files (public domain).
+- data/election/2026/*.json: candidate lists, chamber composition, House delegations and
+  poll-closing times compiled from public reporting as of 2026-09-29 (facts; sources in
+  election.json, uncertain items listed under "unverified").
+- assets/photos/*: official congressional portraits (U.S. federal government works, public
+  domain) via github.com/unitedstates/images; see assets/photos/CREDITS.json.
+- Skia (fetched at build time): BSD-3-Clause, Google LLC.
